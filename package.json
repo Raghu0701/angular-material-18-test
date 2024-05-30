@@ -5,6 +5,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@angular/cli": "^18.0.1"
+    "@angular/cli": "^18.0.2",
+    "@angular/core": "^18.0.1"
   }
 }
